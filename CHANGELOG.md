@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.16.7](https://github.com/googlemaps/js-api-loader/compare/v1.16.6...v1.16.7) (2024-04-26)
+
+
+### Bug Fixes
+
+* Fix a timing issue for sequential importLibrary calls ([#843](https://github.com/googlemaps/js-api-loader/issues/843)) ([f24a1ae](https://github.com/googlemaps/js-api-loader/commit/f24a1aea8f508356bb51ed6972e0724dc36c9596)), closes [#809](https://github.com/googlemaps/js-api-loader/issues/809)
+
 ## [1.16.6](https://github.com/googlemaps/js-api-loader/compare/v1.16.5...v1.16.6) (2024-02-16)
 
 
